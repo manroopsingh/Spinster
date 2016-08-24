@@ -1,39 +1,16 @@
-# OpenBikeSharing
+# Spinster(Bike Sharing Android Application)
 
-[![Build Status](https://travis-ci.org/bparmentier/OpenBikeSharing.svg?branch=master)](https://travis-ci.org/bparmentier/OpenBikeSharing)
+[![Build Status](https://travis-ci.org/bparmentier/Spinster.svg?branch=master)](https://travis-ci.org/bparmentier/Spinster)
 
-OpenBikeSharing is an Android application that displays the availability of shared bikes in your
+Spinster is an Android application that displays the availability of shared bikes in your
 city.
 
 It uses the [CityBikes API](http://api.citybik.es/v2/) that provides data for more than 400 cities in around 40 countries and displays this data in a list or on an [OpenStreetMap](https://www.openstreetmap.org) layer
 thanks to the [osmdroid](https://github.com/osmdroid/osmdroid) library (multiple layers are available).
 
-## Download
-
-OpenBikeSharing is available on
-[F-Droid](https://f-droid.org/repository/browse/?fdid=be.brunoparmentier.openbikesharing.app) and
-[Google Play](https://play.google.com/store/apps/details?id=be.brunoparmentier.openbikesharing.app).
-Signed APK's can also be found on GitHub in the
-[Releases](https://github.com/bparmentier/OpenBikeSharing/releases) section.
-
-## Contribute
-
-### Issues
-
-Bug reports and feature requests can be reported in [Issues](https://github.com/bparmentier/OpenBikeSharing/issues).
-
-To contribute to the [openbikesharing.org](http://openbikesharing.org) website, just switch to the
-[gh-pages](https://github.com/bparmentier/OpenBikeSharing/tree/gh-pages) branch.
-
 ### Translations
 
-Translations are managed on [Weblate](https://hosted.weblate.org/). Please follow [these instructions](https://hosted.weblate.org/engage/openbikesharing/) if you want to help.
-
-### Donations
-
-Donations are always welcome and will help further development of OpenBikeSharing:
-
-* Bitcoin: `168utA5DWMVXLFVfQDahG5abEWUSk9Wcfm`
+Translations are managed on [Weblate](https://hosted.weblate.org/). Please follow [these instructions](https://hosted.weblate.org/engage/Spinster/) if you want to help.
 
 ## Build
 
@@ -52,7 +29,7 @@ in `app/build/outputs/apk`.
 
 ## Permissions
 
-The following permissions are needed by OpenBikeSharing (those are the same that are required by
+The following permissions are needed by Spinster (those are the same that are required by
 osmdroid):
 
 * ACCESS_COARSE_LOCATION
